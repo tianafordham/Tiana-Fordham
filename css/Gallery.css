@@ -272,7 +272,7 @@ body
 {
    display: grid;
    grid-template-columns: repeat(4, 1fr);
-   padding-bottom: 125.27%;
+   padding-bottom: 125.44%;
    height: 0;
    gap: 10px;
 }
@@ -506,7 +506,7 @@ body
 {
    display: grid;
    grid-template-columns: repeat(6, 1fr);
-   padding-bottom: 66.31%;
+   padding-bottom: 66.08%;
    height: 0;
    gap: 10px;
 }
@@ -652,7 +652,7 @@ body
 {
    display: grid;
    grid-template-columns: repeat(3, 1fr);
-   padding-bottom: 201.07%;
+   padding-bottom: 201.76%;
    height: 0;
    gap: 10px;
 }
@@ -1146,7 +1146,7 @@ body
 {
    display: grid;
    grid-template-columns: repeat(3, 1fr);
-   padding-bottom: 167.38%;
+   padding-bottom: 167.84%;
    height: 0;
    gap: 10px;
 }
@@ -1219,6 +1219,48 @@ body
 #MediaGrid4 .thumbnails .thumbnail:nth-child(6) img
 {
    aspect-ratio: 2 / 1;
+}
+#wb_Text10 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 15px 0 0 0 ;
+   text-align: center;
+}
+#wb_Text10 div
+{
+   text-align: center;
+}
+#wb_Text10
+{
+   display: block;
+   margin: 15px 0 0 0 ;
+   box-sizing: border-box;
+   width: 100%;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text1 div
+{
+   text-align: center;
+}
+#wb_Text1
+{
+   display: block;
+   margin: 0;
+   box-sizing: border-box;
+   width: 100%;
 }
 #wb_CssMenu2
 {
@@ -1296,48 +1338,6 @@ clear: both;
    font-size: 1px;
    height: 0;
    line-height: 0;
-}
-#wb_Text10 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   border-radius: 0px;
-   padding: 0;
-   margin: 15px 0 0 0 ;
-   text-align: center;
-}
-#wb_Text10 div
-{
-   text-align: center;
-}
-#wb_Text10
-{
-   display: block;
-   margin: 15px 0 0 0 ;
-   box-sizing: border-box;
-   width: 100%;
-}
-#wb_Text1 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   border-radius: 0px;
-   padding: 0;
-   margin: 0;
-   text-align: center;
-}
-#wb_Text1 div
-{
-   text-align: center;
-}
-#wb_Text1
-{
-   display: block;
-   margin: 0;
-   box-sizing: border-box;
-   width: 100%;
 }
 #wb_LayoutGrid1
 {
